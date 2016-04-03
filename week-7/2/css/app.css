@@ -16,8 +16,8 @@
   margin-top: 30px;
 }
 .paragraph {
-  height: 80px;
-  width: 500px;
+  height: 60px;
+  width: 400px;
   background: rgb(148, 193, 96);
 }
 .items {
@@ -29,7 +29,7 @@
   width: 90px;
   height: 90px;
   background: rgb(41, 77, 0);
-  margin-right: 20px;
+  margin-right: 80px;
 }
 .item:last-child {
   margin-right: 0;
