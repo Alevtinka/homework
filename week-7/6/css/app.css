@@ -1,3 +1,44 @@
 * {
   box-sizing: border-box;
 }
+.main{
+  width: 700px;
+  position: relative;
+  background-color: rgb(196, 231, 154);
+}
+
+.text{
+  padding-left: 40px;
+  padding-top: 20px;
+  display: block;
+  align-items: center;
+}
+
+.logo{
+  width: 100px;
+  height: 25px;
+  background-color: rgb(41, 77, 0);
+}
+
+.links{
+  display: flex;
+  margin-top: 20px;
+
+}
+
+.link{
+  height: 20px;
+  width: 100px;
+  background-color: rgb(41, 77, 0);
+  margin-right: 20px;
+
+}
+
+.header{
+  display: block;
+
+  font-size: 30px;
+  font-family: 'Arial Bold', sans-serif;
+  color:  rgb(41, 77, 0);
+
+}
