@@ -15,7 +15,7 @@
 }
 
 .logo{
-  width: 100px;
+  width: 120px;
   height: 25px;
   background-color: rgb(41, 77, 0);
 }
@@ -28,7 +28,7 @@
 
 .link{
   height: 20px;
-  width: 100px;
+  width: 60px;
   background-color: rgb(41, 77, 0);
   margin-right: 20px;
 
@@ -36,9 +36,26 @@
 
 .header{
   display: block;
+  margin-top: 80px;
 
   font-size: 30px;
   font-family: 'Arial Bold', sans-serif;
   color:  rgb(41, 77, 0);
+}
+
+.paragraph{
+  font-size: 15px;
+  font-family: 'Arial',sans-serif;
+  margin-top: 15px;
+  color: rgb(41, 77, 0);
+}
+
+.figure{
+  width: 200px;
+  height: 200px;
+background: rgb(41, 77, 0);
+-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
 
 }
